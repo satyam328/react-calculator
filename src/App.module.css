@@ -1,0 +1,15 @@
+.calculator {
+  border: 2px solid rgb(112, 110, 110);
+  border-radius: 8px;
+  background-color:beige;
+  width: 218px;
+  height: 410px;
+  padding: 8px;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+  font-family: Raleway;
+  color: rgb(235, 235, 106);
+}

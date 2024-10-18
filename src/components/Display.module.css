@@ -1,0 +1,11 @@
+.display {
+  width: 190px;
+  text-align: right;
+  padding: 6px;
+  margin: 5px;
+  font-size: 2rem;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border-style: double;
+}
