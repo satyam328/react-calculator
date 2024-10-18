@@ -10,23 +10,7 @@ Technologies Used
 React: For building the user interface and managing state.
 CSS: For styling the components and ensuring a responsive design.
 JavaScript: For implementing the calculator logic.
-**Installation**
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/react-calculator-app.git
-Navigate to the project directory:
-bash
-Copy code
-cd react-calculator-app
-Install the dependencies:
-bash
-Copy code
-npm install
-Start the application:
-bash
-Copy code
-npm start
+
 Usage
 Once the app is running, you can use the calculator by clicking the buttons for the desired numbers and operations. The result will be displayed instantly on the screen.
 
